@@ -4,7 +4,7 @@ A simple Calculator, created in Processing3 in python language. It uses Object o
 
 ---
 
-## Tools
+### Tools
 
 1. Processing3 <br>
    >[ ![Processing Logo](https://processing.org/favicon) ](https://processing.org/)
@@ -14,7 +14,7 @@ A simple Calculator, created in Processing3 in python language. It uses Object o
 
 ---
 
-## Modules
+### Modules
 
 1. [Components](main/Components.py)
 2. [Buttons](main/Buttons.py)
@@ -24,7 +24,7 @@ A simple Calculator, created in Processing3 in python language. It uses Object o
 
 ---
 
-## Documentation / References
+### Documentation / References
 | S.No |             Name             |               Link                 |
 |:----:|:-----------------------------|:-----------------------------------|
 |  1.  | Starting point in Processing | http://hello.processing.org/       | 
